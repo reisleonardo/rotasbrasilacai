@@ -259,9 +259,9 @@ nav a:hover {
   place-items: center;
 }
 
-.cover svg {
+.cover img {
   width: 100%;
-  height: 100%;
+  border-radius: 30px;
 }
 
 .cover small {
